@@ -1,0 +1,110 @@
+# Head
+v -0.5 0.5 0.5 # Vertex 1
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+# Body
+v 0.5 0.5 0.5 # Vertex 2
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 3
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v 0.5 0.5 0.5 # Vertex 4
+n 0 10 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 5
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+# Legs
+v 0.5 0.5 0.5 # Vertex 6
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 7
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v 0.5 0.5 0.5 # Vertex 8
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 9
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+# Tail
+v 0.50.5 0.5 # Vertex 10
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 11
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v 0.5 0.5 0.5 # Vertex 12
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 13
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+# Nose
+v 0.5 0.5 0.5 # Vertex 14
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 15
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v 0.5 0.5 0.5 # Vertex 16
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 17
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+# Eyes
+v 0.5 0.5 0.5 # Vertex 18
+n 0 1 0 # Normal vector
+vt 0.75 0.75# Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 19
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v 0.5 0.5 0.5 # Vertex 20
+n 0 1 0 # Normal vector
+vt 0.75 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
+
+v -0.5 0.5 0.5 # Vertex 21
+n 0 1 0 # Normal vector
+vt 0.25 0.75 # Texture coordinate
+f 1//1 2//2 3//3 4//4 # Faces
